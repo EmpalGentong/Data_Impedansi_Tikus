@@ -3,7 +3,7 @@
 ## educational purpose
 ## credits by : Faisal, Saihan
 
-###columns:
+### columns:
 - frekuensi (x1)
 - Z-M1 is impedance (x2)
 - Fase (x3)
